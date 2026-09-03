@@ -1,0 +1,17 @@
+# RPG Maker deployment output
+www/
+
+# Node/npm dependencies
+node_modules/
+
+# Linux/editor junk
+*~
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
