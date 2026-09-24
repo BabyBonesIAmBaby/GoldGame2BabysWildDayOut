@@ -6,6 +6,6 @@ null,
 {"id":4,"expanded":true,"name":"Humansville Tileset Test","order":3,"parentId":0,"scrollX":671.6666666666666,"scrollY":423.6666666666667},
 {"id":5,"expanded":false,"name":"Intro Cutscene","order":8,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Babys Home","order":7,"parentId":0,"scrollX":1200.75,"scrollY":678.75},
-{"id":7,"expanded":false,"name":"Baby House","order":4,"parentId":4,"scrollX":528.3333333333334,"scrollY":322.3333333333333},
+{"id":7,"expanded":false,"name":"Baby House","order":4,"parentId":4,"scrollX":640.4,"scrollY":362},
 {"id":8,"expanded":false,"name":"MAP008","order":5,"parentId":4,"scrollX":816.3333333333334,"scrollY":762.3333333333334}
 ]
