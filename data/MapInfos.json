@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":640.4,"scrollY":362},
-{"id":2,"expanded":true,"name":"google room","order":2,"parentId":0,"scrollX":640.4,"scrollY":362},
-{"id":3,"expanded":true,"name":"Factory And / Or Breakroom Tileset Test","order":6,"parentId":4,"scrollX":634,"scrollY":1078},
-{"id":4,"expanded":true,"name":"Green Land","order":3,"parentId":0,"scrollX":634,"scrollY":362},
-{"id":5,"expanded":false,"name":"Intro Cutscene","order":7,"parentId":0,"scrollX":640.4,"scrollY":362},
-null,
-{"id":7,"expanded":false,"name":"Baby House","order":4,"parentId":4,"scrollX":640.4,"scrollY":362},
-{"id":8,"expanded":false,"name":"MAP008","order":5,"parentId":4,"scrollX":806,"scrollY":812.4}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":711.5555555555555,"scrollY":402.22222222222223},
+{"id":2,"expanded":true,"name":"google room","order":2,"parentId":0,"scrollX":711.5555555555555,"scrollY":402.22222222222223},
+{"id":3,"expanded":true,"name":"Factory And / Or Breakroom Tileset Test","order":7,"parentId":4,"scrollX":704.4444444444445,"scrollY":1037.7777777777778},
+{"id":4,"expanded":true,"name":"Baby Mountain","order":3,"parentId":0,"scrollX":704.4444444444445,"scrollY":508.8888888888889},
+{"id":5,"expanded":false,"name":"Intro Cutscene","order":8,"parentId":0,"scrollX":711.5555555555555,"scrollY":402.22222222222223},
+{"id":6,"expanded":false,"name":"Humansville Gate","order":6,"parentId":8,"scrollX":711.5555555555555,"scrollY":402.22222222222223},
+{"id":7,"expanded":false,"name":"Baby House","order":4,"parentId":4,"scrollX":711.5555555555555,"scrollY":402.22222222222223},
+{"id":8,"expanded":true,"name":"Plains","order":5,"parentId":4,"scrollX":735.5555555555555,"scrollY":1044.888888888889}
 ]
